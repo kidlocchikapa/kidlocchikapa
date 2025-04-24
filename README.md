@@ -1,6 +1,18 @@
- GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=kidlocchikapa&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=kidlocchikapa&layout=compact&theme=radical" height="200"/>
+  <a href="https://github.com/kidlocchikapa">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=kidlocchikapa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
+      alt="Kidloc's GitHub Stats"
+      height="200"
+    />
+  </a>
+  <a href="https://github.com/kidlocchikapa">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlocchikapa&layout=compact&theme=radical&hide_border=true"
+      alt="Kidloc's Top Languages"
+      height="200"
+    />
+  </a>
 </div>
