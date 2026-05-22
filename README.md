@@ -1,4 +1,4 @@
-## Hello there its kidloc !!
+## Hello there am kidloc Chikapa!!
 
 <div align="center">
   <a href="https://github.com/kidlocchikapa">
