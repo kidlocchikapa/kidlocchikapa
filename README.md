@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kidloc%20Chikapa&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Malawi%20🇲🇼&descAlignY=60&descSize=20&descColor=a8d8ea" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kidloc%20Chikapa&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Malawi%20%F0%9F%87%B2%F0%9F%87%BC&descAlignY=60&descSize=20&descColor=a8d8ea" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/kidlocchikapa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4A9ECC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+Engineer+%7C+React+Native+%2F+Flutter;Backend+%26+API+Architect;Data+Science+%26+ML+Engineer;DevOps+%26+Cloud+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4A9ECC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+Engineer+%7C+Flutter+%2F+Kotlin;Backend+%26+API+Architect;Data+%26+Analytics+Engineer;DevOps+%26+Cloud+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,22 +27,22 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about building end-to-end solutions — from pixel-perfect frontends and scalable backends, to intelligent data pipelines and cloud-native deployments. I thrive at the intersection of clean engineering and real-world impact.
+I'm a versatile software engineer from **Malawi**, passionate about building end-to-end solutions — from pixel-perfect frontends and scalable backends, to data insights and cloud-native deployments. I thrive at the intersection of clean engineering and real-world human impact.
 
-- 🔭 Currently building **full-stack and mobile** products
-- 🧠 Deepening expertise in **ML/AI** and **cloud-native architectures**
-- 🤝 Always open to **collaborating** on impactful projects
-- 💬 Ask me about **React, Node.js, Flutter, Python, or DevOps**
+- Currently building **full-stack and mobile** products
+- Deep interest in **AI, RAG pipelines** and **data analytics**
+- Always open to **collaborating** on impactful projects
+- Ask me about **React, Node.js, Flutter, Kotlin, or DevOps**
 
 ---
 
-## 🛠️ My Favorite Tools & Technologies
+## My Favorite Tools & Technologies
 
 > Tools and technologies that I have worked with and am passionate about
 
-### 🌐 Frontend
+### Frontend
 
 <table>
   <tr>
@@ -81,14 +81,10 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
   </tr>
 </table>
 
-### 📱 Mobile
+### Mobile
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" />
       <br>Flutter
@@ -98,13 +94,21 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
       <br>Dart
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Jetpack Compose" />
+      <br>Jetpack Compose
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
   </tr>
 </table>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 <table>
   <tr>
@@ -117,48 +121,32 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
       <br>Express
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48" height="48" alt="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
     </td>
   </tr>
 </table>
 
-### 🧠 Data Science & ML
+### Data & Analytics
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Microsoft Excel" />
+      <br>Excel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+      <br>Power BI
     </td>
   </tr>
 </table>
 
-### 🗄️ Databases
+### Databases
 
 <table>
   <tr>
@@ -167,16 +155,8 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" />
-      <br>Redis
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" />
@@ -185,7 +165,7 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
   </tr>
 </table>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <table>
   <tr>
@@ -198,25 +178,44 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
       <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" />
-      <br>GH Actions
     </td>
   </tr>
 </table>
 
-### 🔧 Tools
+### AI Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="28" alt="Ollama" />
+      <br>Ollama
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/RAG_Pipeline-4A90D9?style=flat-square&logoColor=white" height="28" alt="RAG" />
+      <br>RAG
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" alt="OpenAI" />
+      <br>OpenAI API
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" height="28" alt="ChromaDB" />
+      <br>ChromaDB
+    </td>
+  </tr>
+</table>
+
+### Tools
 
 <table>
   <tr>
@@ -245,7 +244,7 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=kidlocchikapa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
@@ -262,7 +261,7 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kidlocchikapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Kidloc's+Contribution+Graph" width="100%" alt="Activity Graph" />
@@ -270,10 +269,16 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
 
 ---
 
-## 💡 Random Dev Quote
+## A Thought That Drives My Work
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
+
+> *"If I had asked people what they wanted, they would have said faster horses."*
+>
+> — Henry Ford
+
+*The best software is built by deeply understanding what people truly need — not just what they ask for.*
+
 </div>
 
 ---
