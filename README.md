@@ -248,12 +248,7 @@ I'm a versatile software engineer from Malawi, passionate about building end-to-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kidlocchikapa&theme=tokyonight" height="175" />
 </div>
 
-<!-- Row 2: Profile overview full width -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kidlocchikapa&theme=tokyonight" width="100%" />
-</div>
-
-<!-- Row 3: Productive Time + Streak side by side -->
+<!-- Row 2: Productive Time + Streak side by side -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kidlocchikapa&theme=tokyonight&utcOffset=2" height="175" />
   <img src="https://streak-stats.demolab.com/?user=kidlocchikapa&theme=tokyonight&hide_border=true" height="175" />
