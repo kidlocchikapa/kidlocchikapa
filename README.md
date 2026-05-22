@@ -29,7 +29,12 @@
 
 ## 👤 About Me
 
-I'm a versatile software engineer from **Malawi**, passionate about building end-to-end solutions — from pixel-perfect frontends and scalable backends, to intelligent data pipelines and cloud-native deployments. I thrive at the intersection of clean engineering and real-world impact.
+I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about building end-to-end solutions — from pixel-perfect frontends and scalable backends, to intelligent data pipelines and cloud-native deployments. I thrive at the intersection of clean engineering and real-world impact.
+
+- 🔭 Currently building **full-stack and mobile** products
+- 🧠 Deepening expertise in **ML/AI** and **cloud-native architectures**
+- 🤝 Always open to **collaborating** on impactful projects
+- 💬 Ask me about **React, Node.js, Flutter, Python, or DevOps**
 
 ---
 
