@@ -248,12 +248,12 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidlocchikapa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlocchikapa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=kidlocchikapa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=kidlocchikapa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidlocchikapa&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kidlocchikapa&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
 <div align="center">
