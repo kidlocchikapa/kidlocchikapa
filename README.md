@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/kidlocchikapa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4A9ECC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+💻;Mobile+Engineer+(React+Native+%2F+Flutter)+📱;Backend+%26+API+Architect+⚙️;Data+Science+%26+ML+Engineer+🤖;DevOps+%26+Cloud+Specialist+☁️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4A9ECC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Mobile+Engineer+%7C+React+Native+%2F+Flutter;Backend+%26+API+Architect;Data+Science+%26+ML+Engineer;DevOps+%26+Cloud+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,12 +29,7 @@
 
 ## 👤 About Me
 
-I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about building end-to-end solutions — from pixel-perfect frontends and scalable backends, to intelligent data pipelines and cloud-native deployments. I thrive at the intersection of clean engineering and real-world impact.
-
-- 🔭 Currently building **full-stack and mobile** products
-- 🧠 Deepening expertise in **ML/AI** and **cloud-native architectures**
-- 🤝 Always open to **collaborating** on impactful projects
-- 💬 Ask me about **React, Node.js, Flutter, Python, or DevOps**
+I'm a versatile software engineer from **Malawi**, passionate about building end-to-end solutions — from pixel-perfect frontends and scalable backends, to intelligent data pipelines and cloud-native deployments. I thrive at the intersection of clean engineering and real-world impact.
 
 ---
 
