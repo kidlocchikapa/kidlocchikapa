@@ -40,42 +40,208 @@ I'm a versatile software engineer from **Malawi 🇲🇼**, passionate about bui
 
 ## 🛠️ My Favorite Tools & Technologies
 
-> Technologies I've worked with and am passionate about
+> Tools and technologies that I have worked with and am passionate about
 
 ### 🌐 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+  </tr>
+</table>
 
 ### 📱 Mobile
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend & APIs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,graphql,fastapi&theme=dark" />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+  </tr>
+</table>
 
 ### 🧠 Data Science & ML
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
-</div>
 
-### ☁️ DevOps & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,githubactions&theme=dark" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase&theme=dark" />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+</table>
+
+### ☁️ DevOps & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" />
+      <br>GH Actions
+    </td>
+  </tr>
+</table>
 
 ### 🔧 Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
 
 ---
 
