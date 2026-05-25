@@ -168,7 +168,7 @@ I'm a versatile software engineer from Malawi, passionate about building end-to-
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br>C++
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/MIPS_Logo.svg" width="48"/><br>MIPS
+<img src="https://img.shields.io/badge/MIPS-Assembly-00599C?style=flat-square&logo=assemblyscript&logoColor=white" height="28"/><br>MIPS
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br>Linux
@@ -201,6 +201,25 @@ I'm a versatile software engineer from Malawi, passionate about building end-to-
 </tr>
 </table>
 
+### Design & Creative
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48"/><br>Photoshop
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48"/><br>Illustrator
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48"/><br>After Effects
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br>Figma
+</td>
+</tr>
+</table>
+
 ### Tools
 
 <table>
@@ -216,9 +235,6 @@ I'm a versatile software engineer from Malawi, passionate about building end-to-
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br>Figma
 </td>
 </tr>
 </table>
